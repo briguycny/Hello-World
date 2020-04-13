@@ -1,2 +1,2 @@
 # Hello-World
-First one
+First time finally learning github during these crazy times of being locked in at home.  I am actually feeling safe now that I dont go outside much at all anymore now.  I grew up in the 90's and late 80's.  Im one of those kids that wanted a computer when I was a kid and got my first Commodore 64 with a 1541 Floppy disk drive, Data casette, Okidata Microline printer, and a 2400 baud modem.  I learned so much in my younger days that by the time I went to college and majored in computer science the classes were no challenge for me at all.
